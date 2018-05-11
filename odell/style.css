@@ -1,0 +1,23 @@
+#theN{
+  position: absolute;
+  top: 120px;
+  left: 0px;
+  width: 150px;
+  height: 150px;
+}
+
+#thePicture{
+  position: absolute;
+  top: 180px;
+  left:260px;
+  width:160px;
+  height: 270px;
+}
+
+#theClickHere{
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  width: 100px;
+  height: 100px;
+}
